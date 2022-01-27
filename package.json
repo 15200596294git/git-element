@@ -1,0 +1,11 @@
+{
+  "name": "my-element",
+  "version": "1.0.0",
+  "description": "模仿element-ui",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lwj",
+  "license": "ISC"
+}
